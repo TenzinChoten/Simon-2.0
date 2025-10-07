@@ -1,5 +1,3 @@
-Here’s a polished version of your GitHub README section for your Simon Game 2.0 project:
-
 ---
 
 # Simon Game 2.0 🎮
@@ -17,4 +15,3 @@ Check it out live here: [Simon Game 2.0](https://tenzinchoten.github.io/Simon-Ga
 
 ---
 
-If you want, I can also **write a full GitHub-ready README** including **installation, usage, screenshots, and technologies used** so it looks very professional. Do you want me to do that?
